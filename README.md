@@ -1,7 +1,6 @@
 # tutorial
 tutorial
 test
-コミットテスト
-コミットテスト２
+commit test
 
 
